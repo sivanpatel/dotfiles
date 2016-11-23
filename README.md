@@ -34,7 +34,7 @@ requires the homesick gem
 gem install homesick
 ```
 ```sh
-homesick clone git@github.com:ljones140/dotfiles.git
+homesick clone git@github.com:sivanpatel/dotfiles.git
 ```
 once cloned then symlink the dotfiles
 ```sh
