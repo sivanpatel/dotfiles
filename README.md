@@ -13,6 +13,7 @@ based on this guide: http://jilles.me/badassify-your-terminal-and-shell/
 
 install zim
 install fura code retina nerd font
+install geometry theme (https://github.com/geometry-zsh/geometry)
 ```sh
 brew install vim
 brew install zsh
