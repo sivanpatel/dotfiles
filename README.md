@@ -11,11 +11,8 @@ https://github.com/technicalpickles/homesick
 
 based on this guide: http://jilles.me/badassify-your-terminal-and-shell/
 
-Oh My ZSH ihttp://ohmyz.sh/
-```sh
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
+install zim
+install fura code retina nerd font
 ```sh
 brew install vim
 brew install zsh
